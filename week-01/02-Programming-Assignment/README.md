@@ -8,13 +8,13 @@
 | Ограничение по времени:  | 2 секунды    |
 | Ограничение по памяти:   | 256 мегабайт |
 
-В данной задаче требуется вычислить значение выражения $a + b^2$.
+В данной задаче требуется вычислить значение выражения ![equation](http://latex.codecogs.com/svg.latex?\inline&space;a&space;&plus;&space;b^2).
 
 __Формат входного файла__
-Входной файл состоит из одной строки, которая содержит два целых числа $a$ и $b$. Для этих чисел выполняются условия $−10^9 \le a \le 10^9$, $−10^9 \le b \le 10^9$.
+Входной файл состоит из одной строки, которая содержит два целых числа ![equation](http://latex.codecogs.com/svg.latex?\inline&space;a) и ![equation](http://latex.codecogs.com/svg.latex?\inline&space;b). Для этих чисел выполняются условия ![equation](http://latex.codecogs.com/svg.latex?\inline&space;−10^9&space;\le&space;a&space;\le&space;10^9), ![equation](http://latex.codecogs.com/svg.latex?\inline&space;−10^9&space;\le&space;b&space;\le&space;10^9).
 
 __Формат выходного файла__
-В выходной файл выведите единственное целое число — результат вычисления выражения $a + b^2$.
+В выходной файл выведите единственное целое число — результат вычисления выражения ![equation](http://latex.codecogs.com/svg.latex?\inline&space;a&space;&plus;&space;b^2).
 
 __Примеры__
 
