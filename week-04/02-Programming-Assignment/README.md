@@ -13,7 +13,7 @@
 На вход программе подаются строки, содержащие команды. Каждая строка содержит одну команду. Команда — это либо «+ ![equation](http://latex.codecogs.com/svg.latex?\inline&space;N)», либо «−». Команда «+ ![equation](http://latex.codecogs.com/svg.latex?\inline&space;N)» означает добавление в очередь числа ![equation](http://latex.codecogs.com/svg.latex?\inline&space;N), по модулю не превышающего ![equation](http://latex.codecogs.com/svg.latex?\inline&space;10^9). Команда «−» означает изъятие элемента из очереди. Гарантируется, что размер очереди в процессе выполнения команд не превысит ![equation](http://latex.codecogs.com/svg.latex?\inline&space;10^6) элементов.
 
 Формат входного файла
-В первой строке содержится ![equation](http://latex.codecogs.com/svg.latex?\inline&space;M) ((![equation](https://latex.codecogs.com/svg.latex?\inline&space;(1&space;\le&space;M&space;\le&space;10^6))) — число команд. В последующих строках содержатся команды, по одной в каждой строке.
+В первой строке содержится ![equation](http://latex.codecogs.com/svg.latex?\inline&space;M) (![equation](https://latex.codecogs.com/svg.latex?\inline&space;1&space;\le&space;M&space;\le&space;10^6)) — число команд. В последующих строках содержатся команды, по одной в каждой строке.
 
 Формат выходного файла
 Выведите числа, которые удаляются из очереди с помощью команды «−», по одному в каждой строке. Числа нужно выводить в том порядке, в котором они были извлечены из очереди. Гарантируется, что извлечения из пустой очереди не производится.

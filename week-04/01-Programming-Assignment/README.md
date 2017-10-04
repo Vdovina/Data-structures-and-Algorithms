@@ -13,7 +13,7 @@
 На вход программе подаются строки, содержащие команды. Каждая строка содержит одну команду. Команда — это либо "+ ![equation](http://latex.codecogs.com/svg.latex?\inline&space;N)", либо "−". Команда "+ ![equation](http://latex.codecogs.com/svg.latex?\inline&space;N)" означает добавление в стек числа ![equation](http://latex.codecogs.com/svg.latex?\inline&space;N), по модулю не превышающего ![equation](http://latex.codecogs.com/svg.latex?\inline&space;10^9). Команда "−" означает изъятие элемента из стека. Гарантируется, что не происходит извлечения из пустого стека. Гарантируется, что размер стека в процессе выполнения команд не превысит ![equation](http://latex.codecogs.com/svg.latex?\inline&space;10^6) элементов.
 
 Формат входного файла
-В первой строке входного файла содержится ![equation](http://latex.codecogs.com/svg.latex?\inline&space;M) ((![equation](https://latex.codecogs.com/svg.latex?\inline&space;(1&space;\le&space;M&space;\le&space;10^6))) — число команд. Каждая последующая строка исходного файла содержит ровно одну команду.
+В первой строке входного файла содержится ![equation](http://latex.codecogs.com/svg.latex?\inline&space;M) (![equation](https://latex.codecogs.com/svg.latex?\inline&space;1&space;\le&space;M&space;\le&space;10^6)) — число команд. Каждая последующая строка исходного файла содержит ровно одну команду.
 
 Формат выходного файла
 Выведите числа, которые удаляются из стека с помощью команды "−", по одному в каждой строке. Числа нужно выводить в том порядке, в котором они были извлечены из стека. Гарантируется, что изъятий из пустого стека не производится.

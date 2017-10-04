@@ -19,7 +19,7 @@
 Входной файл содержит несколько строк, каждая из которых содержит последовательность символов «(», «)», «[» и «]». Для каждой из этих строк выясните, является ли она правильной скобочной последовательностью.
 
 Формат входного файла
-Первая строка входного файла содержит число ![equation](http://latex.codecogs.com/svg.latex?\inline&space;N) (![equation](https://latex.codecogs.com/svg.latex?\inline&space;(1&space;\le&space;N&space;\le&space;500))) - число скобочных последовательностей, которые необходимо проверить. Каждая из следующих ![equation](http://latex.codecogs.com/svg.latex?\inline&space;N) строк содержит скобочную последовательность длиной от ![equation](http://latex.codecogs.com/svg.latex?\inline&space;1) до ![equation](http://latex.codecogs.com/svg.latex?\inline&space;10^4) включительно. В каждой из последовательностей присутствуют только скобки указанных выше видов.
+Первая строка входного файла содержит число ![equation](http://latex.codecogs.com/svg.latex?\inline&space;N) (![equation](https://latex.codecogs.com/svg.latex?\inline&space;1&space;\le&space;N&space;\le&space;500)) - число скобочных последовательностей, которые необходимо проверить. Каждая из следующих ![equation](http://latex.codecogs.com/svg.latex?\inline&space;N) строк содержит скобочную последовательность длиной от ![equation](http://latex.codecogs.com/svg.latex?\inline&space;1) до ![equation](http://latex.codecogs.com/svg.latex?\inline&space;10^4) включительно. В каждой из последовательностей присутствуют только скобки указанных выше видов.
 
 Формат выходного файла
 Для каждой строки входного файла выведите в выходной файл «YES», если соответствующая последовательность является правильной скобочной последовательностью, или «NO», если не является.

@@ -15,7 +15,7 @@
 Подсказка: чтобы сделать это быстрее, можно воспользоваться модификацией сортировки слиянием.
 
 Формат входного файла
-В первой строке входного файла содержится число ![equation](http://latex.codecogs.com/svg.latex?\inline&space;n) (![equation](https://latex.codecogs.com/svg.latex?\inline&space;(1&space;\le&space;n&space;\le&space;10^5))) — число элементов в массиве. Во второй строке находятся n целых чисел, по модулю не превосходящих ![equation](http://latex.codecogs.com/svg.latex?\inline&space;10^9).
+В первой строке входного файла содержится число ![equation](http://latex.codecogs.com/svg.latex?\inline&space;n) (![equation](https://latex.codecogs.com/svg.latex?\inline&space;1&space;\le&space;n&space;\le&space;10^5)) — число элементов в массиве. Во второй строке находятся n целых чисел, по модулю не превосходящих ![equation](http://latex.codecogs.com/svg.latex?\inline&space;10^9).
 
 Формат выходного файла
 В выходной файл надо вывести число инверсий в массиве.

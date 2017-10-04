@@ -13,7 +13,7 @@
 Чтобы убедиться, что Вы действительно используете сортировку слиянием, мы просим Вас, после каждого осуществленного слияния (то есть, когда соответствующий подмассив уже отсортирован!), выводить индексы граничных элементов и их значения.
 
 Формат входного файла
-В первой строке входного файла содержится число ![equation](http://latex.codecogs.com/svg.latex?\inline&space;n) (![equation](https://latex.codecogs.com/svg.latex?\inline&space;(1&space;\le&space;n&space;\le&space;10^5)) — число элементов в массиве. Во второй строке находятся n целых чисел, по модулю не превосходящих ![equation](http://latex.codecogs.com/svg.latex?\inline&space;10^9).
+В первой строке входного файла содержится число ![equation](http://latex.codecogs.com/svg.latex?\inline&space;n) (![equation](https://latex.codecogs.com/svg.latex?\inline&space;1&space;\le&space;n&space;\le&space;10^5)) — число элементов в массиве. Во второй строке находятся n целых чисел, по модулю не превосходящих ![equation](http://latex.codecogs.com/svg.latex?\inline&space;10^9).
 
 Формат выходного файла
 Выходной файл состоит из нескольких строк.
