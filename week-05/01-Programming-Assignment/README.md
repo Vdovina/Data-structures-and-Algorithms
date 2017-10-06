@@ -10,7 +10,7 @@
 
 Структуру данных «куча», или, более конкретно, «неубывающая пирамида», можно реализовать на основе массива.
 
-Для этого должно выполнятся основное свойство неубывающей пирамиды, которое заключается в том, что для каждого ![equation](https://latex.codecogs.com/svg.latex?\inline&space;1&space;\le&space;n&space;\le&space;n) выполняются условия:
+Для этого должно выполнятся основное свойство неубывающей пирамиды, которое заключается в том, что для каждого ![equation](https://latex.codecogs.com/svg.latex?\inline&space;1&space;\le&space;i&space;\le&space;n) выполняются условия:
 
 * если ![equation](https://latex.codecogs.com/svg.latex?\inline&space;2i&space;\leq&space;n), то ![equation](https://latex.codecogs.com/svg.latex?\inline&space;a[i]&space;\leq&space;a[2i]);
 * если ![equation](https://latex.codecogs.com/svg.latex?\inline&space;2i&space;&plus;&space;1&space;\leq&space;n), то ![equation](https://latex.codecogs.com/svg.latex?\inline&space;a[i]&space;\leq&space;a[2i&space;&plus;&space;1]).
