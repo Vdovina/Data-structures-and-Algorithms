@@ -10,10 +10,10 @@
 
 В данной задаче требуется вычислить значение выражения ![equation](http://latex.codecogs.com/svg.latex?\inline&space;a&space;&plus;&space;b^2).
 
-__Формат входного файла__
+__Формат входного файла__<br>
 Входной файл состоит из одной строки, которая содержит два целых числа ![equation](http://latex.codecogs.com/svg.latex?\inline&space;a) и ![equation](http://latex.codecogs.com/svg.latex?\inline&space;b). Для этих чисел выполняются условия ![equation](http://latex.codecogs.com/svg.latex?\inline&space;−10^9&space;\le&space;a&space;\le&space;10^9), ![equation](http://latex.codecogs.com/svg.latex?\inline&space;−10^9&space;\le&space;b&space;\le&space;10^9).
 
-__Формат выходного файла__
+__Формат выходного файла__<br>
 В выходной файл выведите единственное целое число — результат вычисления выражения ![equation](http://latex.codecogs.com/svg.latex?\inline&space;a&space;&plus;&space;b^2).
 
 __Примеры__
@@ -25,7 +25,7 @@ __Примеры__
 
 Результаты работы Вашего решения
 
-|№ теста| Результат | Время, с |  Память | Размер входного файла | Размер выходного файла |
+|№ теста | Результат | Время, с |  Память | Размер входного файла | Размер выходного файла |
 |:------:|:---------:|:--------:|:-------:|:---------------------:|:----------------------:|
 |  Max	 |           |	0.078	| 6479872 |	25         	          | 19                     |
 | 1	     | OK	     |  0.062	| 6430720 |	7                     |	3                      |

@@ -11,10 +11,10 @@
 
 Дан массив из ![equation](http://latex.codecogs.com/svg.latex?\inline&space;n) элементов, упорядоченный в порядке неубывания, и ![equation](http://latex.codecogs.com/svg.latex?\inline&space;m) запросов: найти первое и последнее вхождение некоторого числа в массив. Требуется ответить на эти запросы.
 
-Формат входного файла<br>
+__Формат входного файла__<br>
 В первой строке входного файла содержится одно число ![equation](http://latex.codecogs.com/svg.latex?\inline&space;n) — размер массива (![equation](https://latex.codecogs.com/svg.latex?\inline&space;1&space;\le&space;n&space;\le&space;10^5)). Во второй строке находятся ![equation](http://latex.codecogs.com/svg.latex?\inline&space;n) чисел в порядке неубывания — элементы массива. В третьей строке находится число ![equation](http://latex.codecogs.com/svg.latex?\inline&space;m) — число запросов (![equation](https://latex.codecogs.com/svg.latex?\inline&space;1&space;\le&space;m&space;\le&space;10^5)). В следующей строке находятся ![equation](http://latex.codecogs.com/svg.latex?\inline&space;m) чисел — запросы. Элементы массива и запросы являются целыми числами, неотрицательны и не превышают ![equation](http://latex.codecogs.com/svg.latex?\inline&space;10^9).
 
-Формат выходного файла
+__Формат выходного файла__<br>
 Для каждого запроса выведите в отдельной строке номер (индекс) первого и последнего вхождения этого числа в массив. Ecли числа в массиве нет, выведите два раза ![equation](http://latex.codecogs.com/svg.latex?\inline&space;-1).
 
 __Пример__
@@ -28,7 +28,7 @@ __Пример__
 
 Результаты работы Вашего решения
 
-| № теста | Результат |  Время, с |   Память  | Размер входного файла | Размер выходного файла | 
+| № теста  | Результат |  Время, с |   Память  | Размер входного файла | Размер выходного файла | 
 |:--------:|:---------:|:---------:|:---------:|:---------------------:|:----------------------:|
 |    Max   |           |   1.372   |  19861504 |       1978102	       |         1277538        |
 |    1	   |     OK	   |   0.046   |   6533120 |         	22         |              17        |
